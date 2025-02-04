@@ -1,7 +1,7 @@
 # R Scripts for Publication:  
-**"Group Sequential Test for Two-Sample Ordinal Outcome Measures"**
+Title of Manuscript **"Group Sequential Test for Two-Sample Ordinal Outcome Measures"**
 
-This folder includes the following major R scripts for our publication.
+This Project includes the following major R scripts for our publication.
 
 ## R Scripts Overview
 
